@@ -1,0 +1,55 @@
+The tidy dataset lists the means and the standard deviations of the accelerometer and gyroscope signal measurements. Means are available for measurements that
+are collected for X, Y and Z axis. 
+
+The mean is calculated for the following features for time and frequency domain signals:
+A) Time domain measurements:
+---------------------------
+Body Accelaration
+Body Gravity Accelaration
+Body Accelaration Jerk
+Body Angular Velocity
+Body Angular Velocity Jerk
+Body Accelaration Magnitude
+Body Angular Velocity Magnitude
+Body Angular Velocity Jerk Magnitude 
+
+B) Frequency Domain measurements:
+--------------------------------
+Body Accelaration - frequency domain measurements
+Body Accelaration Frequency  
+Body Accelaration Jerk  
+Body Accelaration Jerk Frequency  
+Body Angular Velocity  
+Body Angular Velocity Frequency  
+Body Accelaration Magnitude  
+Body Accelaration Magnitude Frquency  
+Body Body Accelaration Jerk  
+Body Body Accelaration Jerk Frequency  
+Body Body Angular Velocity Magnitude  
+Body Body Angular Velocity Magnitude Frequency  
+Body Body Angular Velocity Jerk Magnitude  
+Body Body Angular Velocity Jerk Magnitude Frequency  
+
+The standard deviation is calculated for the following features for time and frequency domain signals:
+A) Time domain measurements:
+---------------------------
+Body Accelaration
+Body Gravity Acc
+Body Gravity Acc Jerk
+Body Angular Velocity
+Body Angular Velocity Jerk
+Body Accelaration Magnitude
+Body Gravity Acc Magnitude
+Body Accelaration Jerk Magnitude
+Body Angular Velocity Magnitude
+Body Angular Velocity Jerk Magnitude
+
+B) Frequency Domain measurements:
+--------------------------------
+Body Accelaration Frequency
+Body Accelaration Jerk Frequency
+Body Angular Velocity Frequency
+Body Accelaration Frequency Magnitude
+Body Body Accelaration Jerk Magnitude
+Body Body Angular Velocity Magnitude
+Body Body Angular Velocity Jerk Magnitude
